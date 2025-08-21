@@ -7,6 +7,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -17,6 +18,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0135-candy](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0135-candy) |
+| [0283-move-zeroes](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Greedy
 |  |
