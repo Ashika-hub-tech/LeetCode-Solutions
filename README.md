@@ -22,4 +22,8 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 |  |
 | ------- |
 | [0135-candy](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0135-candy) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
