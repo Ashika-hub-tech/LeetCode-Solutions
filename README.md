@@ -21,6 +21,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 | [0135-candy](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Greedy
 |  |
@@ -64,4 +65,8 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
