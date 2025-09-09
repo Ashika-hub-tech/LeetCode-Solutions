@@ -19,6 +19,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0135-candy](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -83,6 +84,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
