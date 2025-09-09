@@ -17,6 +17,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0135-candy](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -58,4 +60,8 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
