@@ -13,6 +13,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
@@ -90,4 +91,12 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
