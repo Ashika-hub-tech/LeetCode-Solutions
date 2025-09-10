@@ -13,12 +13,14 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0135-candy](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0135-candy) |
@@ -101,4 +103,8 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
