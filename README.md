@@ -7,11 +7,13 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Array
