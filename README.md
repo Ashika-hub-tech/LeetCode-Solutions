@@ -20,6 +20,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -81,6 +82,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
