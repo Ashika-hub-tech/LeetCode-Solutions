@@ -7,6 +7,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -24,6 +25,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 | [0014-longest-common-prefix](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -96,6 +98,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Stack
 |  |
