@@ -34,6 +34,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 | [0283-move-zeroes](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Greedy
 |  |
@@ -74,6 +75,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 | [0001-two-sum](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +114,7 @@ Leetcode Problems that,I solved to enhance my problem solving skills
 ## Simulation
 |  |
 | ------- |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashika-hub-tech/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
